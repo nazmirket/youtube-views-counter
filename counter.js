@@ -53,6 +53,7 @@ async function sync() {
                         snippet: {
                            categoryId: video.snippet.categoryId,
                            title: `Bu video ${newCount} kez izlendi`,
+                           description: video.snippet.description,
                         },
                      },
                   })
