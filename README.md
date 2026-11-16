@@ -26,8 +26,8 @@ This project creates a dynamic YouTube video title that automatically updates to
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd youtube-view-counter
+   git clone https://github.com/nazmirket/youtube-views-counter.git
+   cd youtube-views-counter
    ```
 
 2. **Install dependencies**
@@ -119,7 +119,7 @@ This template shows the structure of the OAuth tokens file. This file is auto-ge
 ## 📁 Project Structure
 
 ```
-youtube-view-counter/
+youtube-views-counter/
 ├── auth.js                    # OAuth authentication and token management
 ├── counter.js                 # Main application logic and sync functionality
 ├── configs.json               # Configuration settings
